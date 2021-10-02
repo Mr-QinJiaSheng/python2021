@@ -1,0 +1,16 @@
+
+1.创建数据库：
+
+CREATE DATABASE IF NOT EXISTS 数据库名
+DEFAULT CHARACTER SET = utf8 ;
+
+
+2.查看数据库：
+
+SHOW DATABASES ;
+
+
+
+3.删除数据库：
+
+DROP DATABASE IF EXISTS test2 ;
